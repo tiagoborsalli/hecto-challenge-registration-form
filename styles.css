@@ -50,9 +50,10 @@ body {
 
 .jumbo {
     display: flex;
+    justify-content: center;
 }
 
-#label {
+/*#label {
     display: flex;
     flex-direction: column;
     margin: 5px;
@@ -67,9 +68,12 @@ body {
     padding: 5px;
     line-height: 25px;
     margin-left: 20px;
-}
+}*/
 
 #button {
     padding: 10px;
     text-align: center;
 }
+
+
+
